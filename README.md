@@ -99,3 +99,12 @@ A qualidade do software será garantida através das seguintes camadas de teste:
 * **Framework:** Flutter
 * **Linguagem:** Dart
 
+---
+
+## 📂 Documentação Técnica
+Para detalhes sobre o funcionamento do sistema e regras de negócio, acesse:
+
+* [ Casos de Uso e Fluxos do MVP](docs/mvp.md)
+* [ Organograma do Projeto](docs/organograma.md)
+* [ Requisitos Funcionais](docs/RF.md)
+* [ Regras de Negócio](docs/RN.md)
